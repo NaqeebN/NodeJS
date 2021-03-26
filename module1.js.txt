@@ -1,4 +1,0 @@
-exports.giveDate=()=>{
-
-    return Date()
-}
