@@ -1,0 +1,4 @@
+exports.giveDate=()=>{
+
+    return Date()
+}
